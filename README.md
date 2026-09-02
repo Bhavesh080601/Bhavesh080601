@@ -1,9 +1,9 @@
-👋 Hi, I’m Bhavesh Maheshwari
-👤 @Bhavesh080601
-👀 This is my organizational account, to view my personal account, visit https://github.com/bhavesh0806
-🏢 As an Engineer at E-infochips, I contribute to innovative solutions in the field of electronics
-📜 I hold a Bachelor's degree in Electronics and Communication Engineering
-📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
+- 👋 Hi, I’m Bhavesh Maheshwari
+- 👤 @Bhavesh080601
+- 👀 This is my organizational account, to view my personal account, visit https://github.com/bhavesh0806
+- 🏢 As an Engineer at E-infochips, I contribute to innovative solutions in the field of electronics
+- 📜 I hold a Bachelor's degree in Electronics and Communication Engineering
+- 📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
 
 <!--
 **Bhavesh080601/Bhavesh080601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
