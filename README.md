@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bhavesh Maheshwari
 - 👤 @Bhavesh080601
 - 👀 This is my organizational account, to view my personal account, visit https://github.com/bhavesh0806
-- 🏢 As an Engineer at E-infochips, I contribute to innovative solutions in the field of electronics
+- 🏢 Engineer at einfochips - An Arrow Company, I contribute to innovative solutions in the field of electronics
 - 📜 I hold a Bachelor's degree in Electronics and Communication Engineering
 - 📫 Contact me using mail:- maheshwari.bhavesh0806@gmail.com
 
